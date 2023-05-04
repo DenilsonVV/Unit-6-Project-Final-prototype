@@ -1,0 +1,45 @@
+body {
+    background-color:#00ace6;
+    text-align: center;
+    color:white;
+    padding: 100px;
+    border:5px solid;
+ 
+    font-family: 'Gloria Hallelujah', cursive;
+    background-image: url(https://media.istockphoto.com/id/639392022/vector/bookshelves-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=1DNOwFJabnlqHzShnSHfWOsNBUTtIaOgFBcpGQO_-oQ=);
+}
+
+
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+button {
+    border: 5px solid #20d6e3;
+    background-color: #DCAE96;
+   
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+img{
+    border: 5px;
+    width:225px;
+    height:200px;
+}
+
+column {
+  width: 100%;
+}
